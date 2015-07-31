@@ -10,10 +10,12 @@
 #### [Level 4: Look in the dark...](http://www.deathball.net/notpron/true/gototheothersite.htm)
 题目名字叫look in the dark。仔细看了图片，发现台灯下面的那片黑暗处有2行莫斯密码
 > ...- --- --- -.. --- ---
+
 > .--. --- .-- . .-.
 
 然后枕头那里有个闹钟，点击后会让你输入帐号和密码，显然摩尔斯密码的两行就是帐号和密码了。对照着[摩尔斯密码的Wiki](https://en.wikipedia.org/wiki/Morse_code)，一个一个字符去匹配就行。最后这两行结果是
 > voodoo
+
 > power
 
 点击闹钟，输入帐号密码就进入下一关了。
